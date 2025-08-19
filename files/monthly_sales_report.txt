@@ -1,5 +1,0 @@
-Sales Report for March 2023
-===========================
-Total Sales: 9500
-Top Product: Gadget Pro
-Customer Satisfaction: 89%
