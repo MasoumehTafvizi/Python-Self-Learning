@@ -1,10 +1,5 @@
-import os
-import sys
+from package.module_1 import function_in_module_1
 
-import numpy as np
+print("This is main.py")
 
-from utils.math.my_math import add
-
-#sys.modules['numpy']
-print(sys.path)
-print(sys.modules['numpy'])
+print(f"Package structure in main.py: {__package__}")
